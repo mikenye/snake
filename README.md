@@ -34,4 +34,4 @@ You can build by:
 * Cloning the repo
 * Run `go mod tidy` from the root of the repo to download Ebitengine and other required modules.
 * Run `go run main.go` to run the app.
-* Run `go build -o <path_to_binary> to build an executable binary.
+* Run `go build -o <path_to_binary>` to build an executable binary.
