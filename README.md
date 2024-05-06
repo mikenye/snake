@@ -9,6 +9,14 @@ Classic "Snake" game, implemented in [Go](https://go.dev) using the fantastic [E
 * Don't eat yourself.
 * If the snake goes off the edge of the screen, it will wrap around to the opposite edge.
 
+## Screenshots
+
+![Main menu](screenshots/main_menu.png "Main Menu screen")
+
+![In game](screenshots/in_game.png "In-Game screen")
+
+![Game over](screenshots/game_over.png "Game Over screen")
+
 ## Background
 
 I recently watched [Code-It-Yourself! Snake! - Programming from Scratch (Quick and Simple C++)](https://www.youtube.com/watch?v=e8lYLYlrGLg) by One Lone Coder, and thought this would be cool to implement in Go using Ebitengine.
